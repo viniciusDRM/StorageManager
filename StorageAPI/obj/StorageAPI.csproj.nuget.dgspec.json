@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinic\\source\\repos\\StorageAPI\\StorageAPI.csproj": {}
+    "C:\\Users\\Vinic\\OneDrive\\Área de Trabalho\\StorageManager\\StorageAPI\\StorageAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinic\\source\\repos\\StorageAPI\\StorageAPI.csproj": {
+    "C:\\Users\\Vinic\\OneDrive\\Área de Trabalho\\StorageManager\\StorageAPI\\StorageAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinic\\source\\repos\\StorageAPI\\StorageAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Vinic\\OneDrive\\Área de Trabalho\\StorageManager\\StorageAPI\\StorageAPI.csproj",
         "projectName": "StorageAPI",
-        "projectPath": "C:\\Users\\Vinic\\source\\repos\\StorageAPI\\StorageAPI.csproj",
+        "projectPath": "C:\\Users\\Vinic\\OneDrive\\Área de Trabalho\\StorageManager\\StorageAPI\\StorageAPI.csproj",
         "packagesPath": "C:\\Users\\Vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinic\\source\\repos\\StorageAPI\\obj\\",
+        "outputPath": "C:\\Users\\Vinic\\OneDrive\\Área de Trabalho\\StorageManager\\StorageAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,9 +51,23 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.3, )"
             }
           },
           "imports": [
@@ -75,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

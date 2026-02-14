@@ -8,8 +8,7 @@ namespace StorageAPI.Models
         public string? Name { get; set; }
         public Decimal Preco { get; set; }
         public int Quantity { get; set; }
-
-        public Categories categorie { get; set; } = 0;
+        public Categories Category { get; set; } = 0;
 
     }
 }
