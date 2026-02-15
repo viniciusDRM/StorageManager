@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XcsIeweY098=",
+  "dgSpecHash": "mK9vlJYyw80=",
   "success": true,
   "projectFilePath": "C:\\Users\\Vinic\\OneDrive\\Área de Trabalho\\StorageManager\\StorageAPI\\StorageAPI.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\Vinic\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\Vinic\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Vinic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Vinic\\.nuget\\packages\\scalar.aspnetcore\\2.12.40\\scalar.aspnetcore.2.12.40.nupkg.sha512",
     "C:\\Users\\Vinic\\.nuget\\packages\\sprache\\2.3.1\\sprache.2.3.1.nupkg.sha512",
     "C:\\Users\\Vinic\\.nuget\\packages\\system.clientmodel\\1.5.1\\system.clientmodel.1.5.1.nupkg.sha512",
     "C:\\Users\\Vinic\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",

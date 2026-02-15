@@ -159,3 +159,5 @@ C:\Users\Vinic\OneDrive\Área de Trabalho\StorageManager\StorageAPI\obj\Debug\ne
 C:\Users\Vinic\OneDrive\Área de Trabalho\StorageManager\StorageAPI\obj\Debug\net10.0\ref\StorageAPI.dll
 C:\Users\Vinic\OneDrive\Área de Trabalho\StorageManager\StorageAPI\bin\Debug\net10.0\DotNetEnv.dll
 C:\Users\Vinic\OneDrive\Área de Trabalho\StorageManager\StorageAPI\bin\Debug\net10.0\Sprache.dll
+C:\Users\Vinic\OneDrive\Área de Trabalho\StorageManager\StorageAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Vinic\OneDrive\Área de Trabalho\StorageManager\StorageAPI\bin\Debug\net10.0\Scalar.AspNetCore.dll
