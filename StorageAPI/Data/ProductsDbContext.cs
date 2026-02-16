@@ -9,7 +9,7 @@ namespace StorageAPI.Data
     public class ProductsDbContext :DbContext
     {
 
-        DbSet<Product> products { get; set; }
+      public DbSet<Product> products { get; set; }
 
         public ProductsDbContext()
         {
@@ -33,10 +33,7 @@ namespace StorageAPI.Data
 
             modelBuilder.Entity<Product>().HasKey(a => a.Id);
             modelBuilder.Entity<Product>().Property(a => a.Id).ValueGeneratedOnAdd();
-            modelBuilder.Entity<Product>().Property(a => a.Preco).HasColumnType("decimal(18,4");
-
-            
-
+            modelBuilder.Entity<Product>().Property(a => a.Price).HasColumnType("decimal(18,4)");           
             base.OnModelCreating(modelBuilder);
         }
     }
