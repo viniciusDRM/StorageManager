@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>StorageAPI</title>
+</head>
+<body>
+    
+   <div class="container">
+
+    <header>
+
+    </header>
+    <section class="modal-popup hidden">
+    
+    <h1>Adicionar Produto</h1>
+
+    <form method="post" id="product-form">
+
+        <div>
+            <label for="Name">Nome</label>
+            <input type="text" id="product-name">
+        </div>
+            <label for="Price">Preço (R$)</label>
+            <input type="number" name="Price" id="product-price">
+        <div>
+            <label for="Quantity">Quantidade</label>
+            <input type="number" id="product-quantity">
+        </div>
+            <label for="Categorie"></label>
+            <select name="" id="">
+                <option value="0">Eletronicos</option>
+                <option value="1">Moda</option>
+                <option value="2">Lazer</option>
+            </select>
+        <div>
+        <button type="submit">Registar</button>
+    </form>
+    </section>
+    <div class="overlay hidden"></div>
+
+    <button  class="button" id="addbutton" type="submit">Adicionar Produto</button>
+   </div>
+
+
+   <script src="app.js"></script>
+</body>
+</html>
