@@ -15,8 +15,9 @@ body
 
 .container
 {
-display: flex;
-justify-content: center;
+display: grid;
+place-content: center;
+
 }
 
 .container label
@@ -38,13 +39,20 @@ justify-content: center;
 {
     cursor: pointer;
     padding: 5px;
+    display: block;
+    position: relative;
+    
 }
 
 .modal-popup
 {
-    display: grid;
-    place-items: center;
-    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30Svh;
+    margin-left: 40vw;
+    align-items: center;
+    position: fixed;
+
     background-color: var(--container-background);
     width: 350px;
     z-index: 2;
@@ -53,12 +61,6 @@ justify-content: center;
 .modal-popup h1
 {
     color: white;
-}
-
-.button
-{
-    display: inline;
-    position: absolute;
 }
 
 .overlay
@@ -74,4 +76,6 @@ justify-content: center;
 .hidden
 {
     display: none;
-}   
+}
+
+

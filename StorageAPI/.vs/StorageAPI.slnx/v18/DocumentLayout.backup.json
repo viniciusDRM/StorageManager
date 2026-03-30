@@ -7,32 +7,36 @@
       "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\exceptions\\productexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:exceptions\\productexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\migrations\\20260216231414_product_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:migrations\\20260216231414_product_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\migrations\\20260214184124_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:migrations\\20260214184124_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\migrations\\productsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:migrations\\productsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\migrations\\20260214184124_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:migrations\\20260214184124_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\migrations\\20260216231414_product_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|solutionrelative:migrations\\20260216231414_product_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0A32F66-E721-98ED-5FD5-A74A1E1AD120}|StorageAPI.csproj|c:\\users\\vinic\\onedrive\\\u00E1rea de trabalho\\storagemanager\\storageapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -102,39 +106,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20260216231414_product_update.cs",
-              "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Migrations\\20260216231414_product_update.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260216231414_product_update.cs",
-              "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Migrations\\20260216231414_product_update.cs",
-              "RelativeToolTip": "Migrations\\20260216231414_product_update.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductExeption.cs",
+              "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Exceptions\\ProductExeption.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ProductExeption.cs",
+              "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Exceptions\\ProductExeption.cs",
+              "RelativeToolTip": "Exceptions\\ProductExeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T23:16:28.409Z"
+              "WhenOpened": "2026-03-04T18:46:36.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T22:39:13.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ProductsServices.cs",
               "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Services\\ProductsServices.cs",
               "RelativeDocumentMoniker": "Services\\ProductsServices.cs",
               "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Services\\ProductsServices.cs",
               "RelativeToolTip": "Services\\ProductsServices.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T22:29:41.415Z"
+              "WhenOpened": "2026-02-14T22:29:41.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,14 +150,14 @@
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T21:53:57.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -163,19 +169,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Data\\ProductsDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ProductsDbContext.cs",
               "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Data\\ProductsDbContext.cs",
               "RelativeToolTip": "Data\\ProductsDbContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA9wCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T10:20:26.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Models\\Enums\\Categories.cs",
               "RelativeDocumentMoniker": "Models\\Enums\\Categories.cs",
@@ -193,9 +199,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T23:19:19.35Z"
+              "WhenOpened": "2026-02-13T23:19:19.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -205,25 +212,13 @@
               "RelativeDocumentMoniker": "Migrations\\ProductsDbContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Migrations\\ProductsDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\ProductsDbContextModelSnapshot.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wCkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T14:09:54.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\.env",
-              "RelativeDocumentMoniker": ".env",
-              "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\.env",
-              "RelativeToolTip": ".env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-14T18:30:34.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "20260214184124_initial.cs",
               "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Migrations\\20260214184124_initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20260214184124_initial.cs",
@@ -235,7 +230,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "20260216231414_product_update.cs",
+              "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Migrations\\20260216231414_product_update.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260216231414_product_update.cs",
+              "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\Migrations\\20260216231414_product_update.cs",
+              "RelativeToolTip": "Migrations\\20260216231414_product_update.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T23:16:28.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-14T18:30:34.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "StorageAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Vinic\\OneDrive\\\u00C1rea de Trabalho\\StorageManager\\StorageAPI\\StorageAPI.csproj",
               "RelativeDocumentMoniker": "StorageAPI.csproj",

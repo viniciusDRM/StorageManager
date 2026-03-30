@@ -1,5 +1,6 @@
 ﻿using StorageAPI.Data;
 using StorageAPI.Models;
+using StorageAPI.Exceptions;
 
 namespace StorageAPI.Services
 {
@@ -32,8 +33,8 @@ namespace StorageAPI.Services
             }
 
             else
-            {   //TODO exception
-                return null;
+            {
+                throw new ProductExeption("Product not found");
             }
         }
 
@@ -48,8 +49,7 @@ namespace StorageAPI.Services
             }
             else
             {
-                //TODO exception
-                Console.WriteLine("Product is null");
+                throw new ProductExeption("Product not found");
             }
         }
 
@@ -66,8 +66,8 @@ namespace StorageAPI.Services
                 _context.SaveChanges();
             }
             else
-            {   //TODO exception
-                Console.WriteLine("Product is null");
+            {   
+                throw new ProductExeption("Product not found");
             }
         }
     }
